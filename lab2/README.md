@@ -60,11 +60,11 @@
    python -m venv venv
    source venv/bin/activate  # для macOS/Linux
    venv\Scripts\activate     # для Windows
-3. Завантажити необхідні бібліотеки
+3. Завантажити необхідні бібліотеки:
    pip install --upgrade pip
    pip install -r lab2/requirements.txt
    
-4. Запустити jupyter notebook
+4. Запустити jupyter notebook:
    У терміналі, де активовано середовище:
    jupyter notebook
    У браузері, який відкриється, необхідно перейти в папку lab2 та відкрити бажаний файл
