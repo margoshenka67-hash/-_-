@@ -212,3 +212,6 @@ __marimo__/
 *.txt
 *.csv
 *.log
+
+!requirements.txt
+!**/requirements.txt
