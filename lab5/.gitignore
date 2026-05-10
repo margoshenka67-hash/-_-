@@ -210,7 +210,6 @@ __marimo__/
 
 # Data files
 *.txt
-*.csv
 *.log
 
 !requirements.txt
